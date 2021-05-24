@@ -11,7 +11,9 @@ Returning visitors are identified by cookies if those are accepted.
 All others are classified as first-time visitors, so the count of unique visitors is the sum of the counts of returning and first-time visitors by definition. 
 The data was collected through a traffic monitoring service known as StatCounter.
 
-Tools: I have used Python, Pandas, Matplotlib, Execl, and of course Jupter Notebook to finish this project.
+Tools: 
+
+I have used Python, Pandas, Matplotlib, Execl, and of course Jupter Notebook to finish this project.
 
 Purpose:
 
