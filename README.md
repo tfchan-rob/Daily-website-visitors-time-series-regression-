@@ -18,4 +18,3 @@ I have used Python, Pandas, Matplotlib, Seaborn, Execl, and of course Jupter Not
 Purpose:
 
 Find out the traffic pattern from past 5 years.
-develop forecasting models
