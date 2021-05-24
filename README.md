@@ -13,7 +13,7 @@ The data was collected through a traffic monitoring service known as StatCounter
 
 Tools: 
 
-I have used Python, Pandas, Matplotlib, Execl, and of course Jupter Notebook to finish this project.
+I have used Python, Pandas, Matplotlib, Seaborn, Execl, and of course Jupter Notebook to finish this project.
 
 Purpose:
 
